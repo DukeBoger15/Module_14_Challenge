@@ -12,3 +12,6 @@
 <h2>Usage</h2>
 <li>To use this application, please clone the repository and open JupyterLab. In JupyterLab, use the run tab and select run all cells</li>
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/113187706/211690402-036cca61-d056-40ab-8e42-ed9e19bff30a.png">
+<h3>Conclusions About Baseline Trading Algorithm Performance</h3>
+<li>Looking at the Cumulative Return Plot below of actual returns vs Strategy returns, the actual returns and strategy returns follow a similar path. At the beginning of the time period, there is a decrease in returns and the lines are stacked ontop of each other in the plot, therefore you cannot tell a difference in them. As the time period gets closer to 2019, we start to see the two returns separate with the strategy returns outperforming the actual returns. IN the year 2020, we see an extreme decrease in both the actual and strategy returns, presumably due to the Covid-19 Pandemic. Then moving towards 2021, both actual and strategy returns begin to increase with the strategy retuns out performing the actual returns.</li>
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/113187706/211691357-6b4c8f8d-2f86-471c-acc0-ae0bcc201dce.png">
