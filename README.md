@@ -19,3 +19,11 @@
 <li>Answer the Following Question:What impact resulted from increasing or decreasing the training window? By decreasing the training window from 3 months to 1 month, we can see that the actual returns vs the strategy returns are already showing discrepicences. The strategy returns outperformat the actual returns every step of the way as show by the first graph below. IN the second graph below, you can see that given a longer training periond, 10 months that the actual returns actually begin to outperfomr the strategy returns.</li>
   <img width="474" alt="image" src="https://user-images.githubusercontent.com/113187706/211692716-cca4cbf1-c394-454a-9402-ee6c81a30066.png">
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/113187706/211693305-b6afea57-d63e-433c-8bea-026373b7e557.png">
+<h3>Tuning Trading Algorithm Adjusting SMA Features</h4>
+<li>Answer This Question: What Impact resulted from increasing or decreasing either or both of the SMA windows? By decreasing both the long and short SMA windows, the graph displaying the returns between actual and strategy, the lines illustrating each return, follow a similar path to the baseline.
+  <img width="434" alt="image" src="https://user-images.githubusercontent.com/113187706/211694516-7d60fabe-b4ca-488b-8a30-df17bdff657b.png">
+  <h4>Plot of Best Improved Parameters</h4>
+ <img width="474" alt="image" src="https://user-images.githubusercontent.com/113187706/211692716-cca4cbf1-c394-454a-9402-ee6c81a30066.png">
+<h2>Evaluation Report</h2>
+<li>Using the logistic regression classifier, there is now a visible diference between the strategy returns and the actual returns. During the year 2020, the strategy returns outperformed the actual returns and as we get closer to 2021, we begint to see that the returns are intersecting and the actual returns are beginning to outperform the strategy returns. This is illustrated in the graph below.
+  <img width="445" alt="image" src="https://user-images.githubusercontent.com/113187706/211695519-3af01d09-6717-466f-a0b6-8e6b2c4cf727.png">
