@@ -9,3 +9,6 @@
 <li>3). Train a new machine learning model and compare its performance to that of a baseline model.</li>
 <h4>Libraries and Programs Used</h4>
 <li>Pandas, numpy, hvplot, matplotlib, scikit-learn, StandardScaler, DateOffset, & classification_report</li>
+<h2>Usage</h2>
+<li>To use this application, please clone the repository and open JupyterLab. In JupyterLab, use the run tab and select run all cells</li>
+<img width="410" alt="image" src="https://user-images.githubusercontent.com/113187706/211690402-036cca61-d056-40ab-8e42-ed9e19bff30a.png">
